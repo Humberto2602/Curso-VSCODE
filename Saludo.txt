@@ -1,0 +1,2 @@
+Saludo.txt
+Hola, estoy aprendiendo Git con VS Code.
